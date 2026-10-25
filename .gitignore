@@ -1,0 +1,8 @@
+# Notas del profesor (incluyen respuestas del quiz y claves del taller)
+docente/
+
+# Configuración local de Claude Code
+.claude/
+
+# Archivos temporales de Office
+~$*
