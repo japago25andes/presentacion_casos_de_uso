@@ -2,7 +2,7 @@
 
 Presentación interactiva para la clase de **Casos de Uso** de Software I — Ingeniería de Sistemas, Universidad Libre.
 
-42 diapositivas (≈ 60 minutos): requisitos funcionales y no funcionales, qué es un caso de uso, anatomía del diagrama, include / extend / generalización, ejemplos completos (SINU, cajero automático, tienda en línea, biblioteca) y especificación de casos de uso con plantilla.
+42 diapositivas: requisitos funcionales y no funcionales, qué es un caso de uso, anatomía del diagrama, include / extend / generalización, ejemplos completos (SINU, cajero automático, tienda en línea, biblioteca) y especificación de casos de uso con plantilla.
 
 ## Ver la presentación
 
